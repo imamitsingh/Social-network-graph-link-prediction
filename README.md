@@ -29,7 +29,7 @@ Above is the snapshot of the raw data in train.csv file. It only has two columns
 
 **Precision:** Suggesting connections that are most likely to be correct <br>
 **Recall:** We try and not to miss out any connections <br>
-Since we want both precision and recall to be high, we shoose **F1 score** as a KPI along **Confusion matrix** to summarize 
+Since we want both precision and recall to be high, we choose **F1 score** as a KPI along **Confusion matrix** to summarize 
 the performance of the model
 
 ### References
